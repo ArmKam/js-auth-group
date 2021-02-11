@@ -1,0 +1,11 @@
+{
+  "name": "msal-demo",
+  "main": "index.js",
+  "scripts":{
+    "start": "http-server"
+  },
+
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
